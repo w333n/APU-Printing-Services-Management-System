@@ -1,0 +1,218 @@
+C:\Users\song wen\source\repos\Custoemr\bin\Debug\Custoemr.exe.config
+C:\Users\song wen\source\repos\Custoemr\bin\Debug\Custoemr.exe
+C:\Users\song wen\source\repos\Custoemr\bin\Debug\Custoemr.pdb
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.csproj.AssemblyReference.cache
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.myprofile.resources
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.order.resources
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.Properties.Resources.resources
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.request.resources
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.csproj.GenerateResource.cache
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.csproj.CoreCompileInputs.cache
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.exe
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.pdb
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.Form2.resources
+C:\Users\song wen\source\repos\Custoemr\obj\Debug\Custoemr.Form3.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.csproj.AssemblyReference.cache
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.Admin.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.Form2.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.Form3.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.myprofile.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.order.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.Properties.Resources.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.register.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.report.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.request.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.update.resources
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.csproj.GenerateResource.cache
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.csproj.CoreCompileInputs.cache
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.exe
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.pdb
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Custoemr.exe.config
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Custoemr.exe
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Custoemr.pdb
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\EPPlus.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Buffers.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Memory.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Text.Json.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.ValueTuple.dll
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\EPPlus.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Buffers.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Memory.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Text.Json.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\bin\Debug\System.ValueTuple.xml
+C:\Users\song wen\source\repos\Custoemr - Copy\obj\Debug\Custoemr.csproj.Up2Date
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.csproj.AssemblyReference.cache
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.Admin.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.Form2.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.Form3.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.myprofile.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.order.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.Properties.Resources.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.register.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.report.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.request.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.update.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.csproj.GenerateResource.cache
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.csproj.CoreCompileInputs.cache
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.exe
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.pdb
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Custoemr.exe.config
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Custoemr.exe
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Custoemr.pdb
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\EPPlus.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Buffers.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Memory.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Text.Json.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.ValueTuple.dll
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\EPPlus.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Buffers.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Memory.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Text.Json.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\bin\Debug\System.ValueTuple.xml
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.csproj.Up2Date
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.Manager.AssignWork.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.Manager.sample.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.JobHistory.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.UpdateJob.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.Worker.resources
+C:\Users\song wen\source\repos\Custoemr - Copy - Copy\obj\Debug\Custoemr.Customer.OurProfile.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Custoemr.exe.config
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Custoemr.exe
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Custoemr.pdb
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\EPPlus.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Buffers.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Memory.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Text.Json.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.ValueTuple.dll
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\EPPlus.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Buffers.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Memory.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Text.Json.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\bin\Debug\System.ValueTuple.xml
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.csproj.AssemblyReference.cache
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.Admin.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.Customer.OurProfile.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.Form2.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.Form3.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.Manager.AssignWork.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.Manager.sample.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.JobHistory.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.myprofile.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.order.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.Properties.Resources.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.register.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.report.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.request.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.update.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.UpdateJob.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.Worker.resources
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.csproj.GenerateResource.cache
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.csproj.CoreCompileInputs.cache
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.csproj.Up2Date
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.exe
+C:\Users\song wen\OneDrive\Custoemr - Copy - Copy\obj\Debug\Custoemr.pdb
